@@ -1,0 +1,1 @@
+go build base64.go
